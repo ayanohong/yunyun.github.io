@@ -1,0 +1,51 @@
+/* 设置文本属性 */
+h1{
+    position: absolute;
+    top: 20%;
+    left: 70%;
+}
+#y{
+    color: blueviolet;
+    position: absolute;
+    top: 25%;
+    left: 72.8%;
+    
+}
+#l{
+    color: blueviolet;
+    position: absolute;
+    top: 27.5%;
+    left: 72.5%;
+    
+}
+
+/* 设置button的属性 */
+button:hover .stars{
+    display: block;
+    filter: drop-shadow(0 0 10px rgba(252, 249, 249, 0.94));
+}
+.buttonClass1{
+    background-color:white;
+    color: rgb(14, 59, 101);
+    position: absolute;
+    top: 38%;
+    left: 67%;
+    padding: 15px 32px;
+}
+.buttonClass2{
+    background-color: rgb(10, 172, 75);
+    color: rgb(14, 59, 101);
+    position: absolute;
+    top: 38%;
+    left: 75.8%;
+    padding: 15px 32px;
+}
+#bilibili{
+    
+    background-color:white;
+    color: rgb(14, 59, 101);
+    position: absolute;
+    top: 10%;
+    left: 14.3%;
+    padding: 10px 50px;
+}
